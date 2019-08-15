@@ -1,0 +1,2 @@
+FROM cptactionhank/atlassian-jira-software
+这个教程在简书上写着了
